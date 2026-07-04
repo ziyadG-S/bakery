@@ -1,1 +1,1 @@
-# bakrey
+# bakery
